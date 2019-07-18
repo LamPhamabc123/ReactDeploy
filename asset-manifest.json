@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Deploy/static/css/main.36497136.chunk.css",
-    "main.js": "/Deploy/static/js/main.2d220d6a.chunk.js",
-    "main.js.map": "/Deploy/static/js/main.2d220d6a.chunk.js.map",
-    "runtime~main.js": "/Deploy/static/js/runtime~main.28b724fd.js",
-    "runtime~main.js.map": "/Deploy/static/js/runtime~main.28b724fd.js.map",
-    "static/css/2.0624914a.chunk.css": "/Deploy/static/css/2.0624914a.chunk.css",
-    "static/js/2.292b09d7.chunk.js": "/Deploy/static/js/2.292b09d7.chunk.js",
-    "static/js/2.292b09d7.chunk.js.map": "/Deploy/static/js/2.292b09d7.chunk.js.map",
-    "index.html": "/Deploy/index.html",
-    "precache-manifest.d598c373556758ddf9723628ecba92ba.js": "/Deploy/precache-manifest.d598c373556758ddf9723628ecba92ba.js",
-    "service-worker.js": "/Deploy/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/Deploy/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/Deploy/static/css/main.36497136.chunk.css.map"
+    "main.css": "/ReactDeploy/static/css/main.36497136.chunk.css",
+    "main.js": "/ReactDeploy/static/js/main.9e62322c.chunk.js",
+    "main.js.map": "/ReactDeploy/static/js/main.9e62322c.chunk.js.map",
+    "runtime~main.js": "/ReactDeploy/static/js/runtime~main.e553f14f.js",
+    "runtime~main.js.map": "/ReactDeploy/static/js/runtime~main.e553f14f.js.map",
+    "static/css/2.0624914a.chunk.css": "/ReactDeploy/static/css/2.0624914a.chunk.css",
+    "static/js/2.292b09d7.chunk.js": "/ReactDeploy/static/js/2.292b09d7.chunk.js",
+    "static/js/2.292b09d7.chunk.js.map": "/ReactDeploy/static/js/2.292b09d7.chunk.js.map",
+    "index.html": "/ReactDeploy/index.html",
+    "precache-manifest.34b47336cdd2a5b3c83ce08f72d35590.js": "/ReactDeploy/precache-manifest.34b47336cdd2a5b3c83ce08f72d35590.js",
+    "service-worker.js": "/ReactDeploy/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/ReactDeploy/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/ReactDeploy/static/css/main.36497136.chunk.css.map"
   }
 }
